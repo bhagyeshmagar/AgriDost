@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="alert_red">#C62828</color>
+    <color name="background_light">#F0F8F0</color>
+    <color name="black">#FF000000</color>
+    <color name="card_bg_alert">#FFEBEE</color>
+    <color name="card_bg_assistant">#E8F5E9</color>
+    <color name="color_message_bot_bg">#E8F5E9</color>
+    <color name="color_message_bot_text">#000000</color>
+    <color name="color_message_user_bg">#2E7D32</color>
+    <color name="green_accent">#69F0AE</color>
+    <color name="green_dark">#1B5E20</color>
+    <color name="green_light">#4CAF50</color>
+    <color name="green_primary">#2E7D32</color>
+    <color name="icon_tint_green">#43A047</color>
+    <color name="input_field_bg">#FFFFFF</color>
+    <color name="input_field_stroke">#2E7D32</color>
+    <color name="login_bg_color">#C8E6C9</color>
+    <color name="login_button_color">#1B5E20</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="text_hint">#757575</color>
+    <color name="text_primary">#2E7D32</color>
+    <color name="text_secondary">#558B2F</color>
+    <color name="text_white">#FFFFFF</color>
+    <color name="weather_icon_tint">#FBC02D</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">AgriDost</string>
+    <string name="assistant_name">Kisan Sahayak</string>
+    <string name="gcm_defaultSenderId" translatable="false">779904721360</string>
+    <string name="google_api_key" translatable="false">AIzaSyDe5_X9klBkoxueq0MfYVDToSywB-CoHiw</string>
+    <string name="google_app_id" translatable="false">1:779904721360:android:00611ba8195d9d21ee19d5</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDe5_X9klBkoxueq0MfYVDToSywB-CoHiw</string>
+    <string name="google_storage_bucket" translatable="false">agridost-a03f1.firebasestorage.app</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="project_id" translatable="false">agridost-a03f1</string>
+    <string name="signup">Sign Up</string>
+    <string name="welcome_message">Welcome to AgriDost</string>
+    <style name="Theme.AgriDost" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/green_primary</item>
+        <item name="colorPrimaryVariant">@color/green_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/green_light</item>
+        <item name="colorSecondaryVariant">@color/green_accent</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        
+    </style>
+</resources>

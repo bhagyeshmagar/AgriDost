@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AgriDost</string>
+    <string name="welcome_message">Welcome to AgriDost</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="assistant_name">Kisan Sahayak</string>
+</resources>

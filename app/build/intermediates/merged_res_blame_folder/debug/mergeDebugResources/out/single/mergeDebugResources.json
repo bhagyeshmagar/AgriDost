@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "C:\\Users\\Bhagyesh\\.gradle\\daemon\\8.13\\com.example.agridost.app-debug-5:\\layout_activity_disease.xml.flat",
+        "source": "C:\\Users\\Bhagyesh\\.gradle\\daemon\\8.13\\com.example.agridost.app-main-7:\\layout\\activity_disease.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagyesh\\.gradle\\daemon\\8.13\\com.example.agridost.app-debug-5:\\layout_item_message_user.xml.flat",
+        "source": "C:\\Users\\Bhagyesh\\.gradle\\daemon\\8.13\\com.example.agridost.app-main-7:\\layout\\item_message_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagyesh\\.gradle\\daemon\\8.13\\com.example.agridost.app-debug-5:\\layout_item_market_price.xml.flat",
+        "source": "C:\\Users\\Bhagyesh\\.gradle\\daemon\\8.13\\com.example.agridost.app-main-7:\\layout\\item_market_price.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagyesh\\.gradle\\daemon\\8.13\\com.example.agridost.app-debug-5:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Bhagyesh\\.gradle\\daemon\\8.13\\com.example.agridost.app-main-7:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagyesh\\.gradle\\daemon\\8.13\\com.example.agridost.app-debug-5:\\drawable_ic_logo_agridost.xml.flat",
+        "source": "C:\\Users\\Bhagyesh\\.gradle\\daemon\\8.13\\com.example.agridost.app-main-7:\\drawable\\ic_logo_agridost.xml"
+    },
+    {
+        "merged": "com.example.agridost.app-debug-5:/layout_activity_assistant.xml.flat",
+        "source": "com.example.agridost.app-main-7:/layout/activity_assistant.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagyesh\\.gradle\\daemon\\8.13\\com.example.agridost.app-debug-5:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Bhagyesh\\.gradle\\daemon\\8.13\\com.example.agridost.app-main-7:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagyesh\\.gradle\\daemon\\8.13\\com.example.agridost.app-debug-5:\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\Bhagyesh\\.gradle\\daemon\\8.13\\com.example.agridost.app-main-7:\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagyesh\\.gradle\\daemon\\8.13\\com.example.agridost.app-debug-5:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Bhagyesh\\.gradle\\daemon\\8.13\\com.example.agridost.app-main-7:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagyesh\\.gradle\\daemon\\8.13\\com.example.agridost.app-debug-5:\\layout_item_message_bot.xml.flat",
+        "source": "C:\\Users\\Bhagyesh\\.gradle\\daemon\\8.13\\com.example.agridost.app-main-7:\\layout\\item_message_bot.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagyesh\\.gradle\\daemon\\8.13\\com.example.agridost.app-debug-5:\\drawable_bg_message_user.xml.flat",
+        "source": "C:\\Users\\Bhagyesh\\.gradle\\daemon\\8.13\\com.example.agridost.app-main-7:\\drawable\\bg_message_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagyesh\\.gradle\\daemon\\8.13\\com.example.agridost.app-debug-5:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Bhagyesh\\.gradle\\daemon\\8.13\\com.example.agridost.app-main-7:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagyesh\\.gradle\\daemon\\8.13\\com.example.agridost.app-debug-5:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Bhagyesh\\.gradle\\daemon\\8.13\\com.example.agridost.app-main-7:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagyesh\\.gradle\\daemon\\8.13\\com.example.agridost.app-debug-5:\\drawable_bg_message_bot.xml.flat",
+        "source": "C:\\Users\\Bhagyesh\\.gradle\\daemon\\8.13\\com.example.agridost.app-main-7:\\drawable\\bg_message_bot.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagyesh\\.gradle\\daemon\\8.13\\com.example.agridost.app-debug-5:\\drawable_bg_button_login.xml.flat",
+        "source": "C:\\Users\\Bhagyesh\\.gradle\\daemon\\8.13\\com.example.agridost.app-main-7:\\drawable\\bg_button_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagyesh\\.gradle\\daemon\\8.13\\com.example.agridost.app-debug-5:\\drawable_ic_email.xml.flat",
+        "source": "C:\\Users\\Bhagyesh\\.gradle\\daemon\\8.13\\com.example.agridost.app-main-7:\\drawable\\ic_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagyesh\\.gradle\\daemon\\8.13\\com.example.agridost.app-debug-5:\\drawable_bg_input_field.xml.flat",
+        "source": "C:\\Users\\Bhagyesh\\.gradle\\daemon\\8.13\\com.example.agridost.app-main-7:\\drawable\\bg_input_field.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagyesh\\.gradle\\daemon\\8.13\\com.example.agridost.app-debug-5:\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\Bhagyesh\\.gradle\\daemon\\8.13\\com.example.agridost.app-main-7:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagyesh\\.gradle\\daemon\\8.13\\com.example.agridost.app-debug-5:\\layout_activity_weather.xml.flat",
+        "source": "C:\\Users\\Bhagyesh\\.gradle\\daemon\\8.13\\com.example.agridost.app-main-7:\\layout\\activity_weather.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagyesh\\.gradle\\daemon\\8.13\\com.example.agridost.app-debug-5:\\layout_activity_assistant.xml.flat",
+        "source": "C:\\Users\\Bhagyesh\\.gradle\\daemon\\8.13\\com.example.agridost.app-main-7:\\layout\\activity_assistant.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagyesh\\.gradle\\daemon\\8.13\\com.example.agridost.app-debug-5:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Bhagyesh\\.gradle\\daemon\\8.13\\com.example.agridost.app-main-7:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagyesh\\.gradle\\daemon\\8.13\\com.example.agridost.app-debug-5:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Bhagyesh\\.gradle\\daemon\\8.13\\com.example.agridost.app-main-7:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagyesh\\.gradle\\daemon\\8.13\\com.example.agridost.app-debug-5:\\drawable_ic_lock.xml.flat",
+        "source": "C:\\Users\\Bhagyesh\\.gradle\\daemon\\8.13\\com.example.agridost.app-main-7:\\drawable\\ic_lock.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagyesh\\.gradle\\daemon\\8.13\\com.example.agridost.app-debug-5:\\layout_activity_market.xml.flat",
+        "source": "C:\\Users\\Bhagyesh\\.gradle\\daemon\\8.13\\com.example.agridost.app-main-7:\\layout\\activity_market.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagyesh\\.gradle\\daemon\\8.13\\com.example.agridost.app-debug-5:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\Bhagyesh\\.gradle\\daemon\\8.13\\com.example.agridost.app-main-7:\\layout\\activity_home.xml"
+    }
+]

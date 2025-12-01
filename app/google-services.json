@@ -1,0 +1,29 @@
+{
+    "project_info": {
+        "project_number": "779904721360",
+        "project_id": "agridost-a03f1",
+        "storage_bucket": "agridost-a03f1.firebasestorage.app"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:779904721360:android:00611ba8195d9d21ee19d5",
+                "android_client_info": {
+                    "package_name": "com.example.agridost"
+                }
+            },
+            "oauth_client": [],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyDe5_X9klBkoxueq0MfYVDToSywB-CoHiw"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": []
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
