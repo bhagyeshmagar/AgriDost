@@ -41,7 +41,7 @@ public class AssistantActivity extends AppCompatActivity {
     private static final int REQUEST_CODE_SPEECH_INPUT = 1000;
 
     // TODO: Enter your Gemini API Key here
-    private static final String GEMINI_API_KEY = "AIzaSyBkm3lfQAITIQJVLMKTUdJRfmDG0U7PTIo";
+    private static final String GEMINI_API_KEY = "YOUR_API_KEY_HERE";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
